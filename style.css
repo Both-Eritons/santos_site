@@ -110,7 +110,7 @@ nav.navbar {
 }
 
 .container__main>p {
-    margin: 0 0 0 140px;
+    margin: 0 100px 0 100px;
     font-size: 16px;
     color: #BEFF00;
     font-weight: bold;
