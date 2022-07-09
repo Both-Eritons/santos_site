@@ -189,7 +189,8 @@ nav.navbar {
     cursor: pointer;
     border-radius: 10px;
     width: 250px;
-    height: 150px;
+    height: auto;
+    padding: 10px;
     margin: 40px auto;
     text-align: center;
 }
